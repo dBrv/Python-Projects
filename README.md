@@ -1,0 +1,1 @@
+Note: All programs above are a recreation of "140 + BASIC PYTHON PROGRAMS by Piush Kumar Sharma" which I took the liberty to use since it was provided in LinkedIn. I want to personally thank him for writing this book since it has been a blessing to my learnings.
