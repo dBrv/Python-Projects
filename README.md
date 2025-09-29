@@ -1,1 +1,1 @@
-Note: All programs above are a recreation of "140 + BASIC PYTHON PROGRAMS by Piush Kumar Sharma" which I took the liberty to use since it was provided in LinkedIn. I want to personally thank him for writing this book since it has been a blessing to my learnings.
+Note: All programs above are a recreation of "140 + BASIC PYTHON PROGRAMS by Piush Kumar Sharma" by me, which I took the liberty to use as a guide since it was provided to me through a post in LinkedIn. I want to personally thank him for writing this book since it has been a blessing to my learnings.
